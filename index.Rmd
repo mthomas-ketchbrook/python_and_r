@@ -16,3 +16,52 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 ## About Me {.flexbox .vcenter}
 
 ![](www/my_headshot.jpeg)
+
+## Until Now {.flexbox .vcenter}
+
+<img src="www/r_vs_py_1.jpg" alt="R vs Py Fig1", width = "48%", height = "40%">&nbsp;<img src="www/r_vs_py_2.png" alt="R vs Py Fig2", width = "48%", height = "40%">
+<img src="www/r_vs_py_3.jpg" alt="R vs Py Fig3", width = "48%", height = "40%">&nbsp;<img src="www/r_vs_py_4.jpg" alt="R vs Py Fig4", width = "48%", height = "40%">
+
+## You Right Now, Probably {.flexbox .vcenter}
+
+"R iS NoT A ReAl pRoGrAmMiNg lAnGuAgE" 
+
+- The Skeptics
+
+
+## Me, Trying to Convince You Otherwise {.flexbox .vcenter}
+
+![](www/my_gif.gif)
+
+
+## Why Just Pick One? {.flexbox .vcenter}
+
+![](www/why_cant_we_be_friends.jpg)
+
+## Ursa Labs - 2018 {.flexbox .vcenter}
+
+<img src="www/wes.jpg" alt="Wes", width = "45%">&nbsp;<img src="www/hadley.jpg" alt="Hadley", width = "45%">
+
+## As of Today... {.flexbox .vcenter}
+
+<center><img src="www/databricks.png" alt="Databricks", height = "60%", width = "60%"></center>
+<center><img src="www/rstudio.png" alt="RStudio", width = "35%", height = "60%">&nbsp;&nbsp;&nbsp;<img src="www/jupyter.jpg" alt="Hadley", width = "35%", height = "60%"></center>
+
+## Databricks Example
+
+[https://mthomas-ketchbrook.github.io/python_and_r_in_databricks/](https://mthomas-ketchbrook.github.io/python_and_r_in_databricks/)
+
+## RMarkdown Example
+
+[https://mthomas-ketchbrook.github.io/python_and_r_in_rmarkdown/](https://mthomas-ketchbrook.github.io/python_and_r_in_rmarkdown/)
+
+## Contact Information {.flexbox .vcenter}
+
+<br>
+
+[mthomas@ketchbrookanalytics.com](mailto:mthomas@ketchbrookanalytics.com)
+
+<br>
+<br>
+
+\(860) 580 - 6657
